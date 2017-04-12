@@ -2,7 +2,7 @@
 Test displaying of thai fonts in pygame.  
 ทดสอบฟอนต์ภาษาไทยบนไพเกม   
 ---    
-## ติดตั้ง
+## ติดตั้งและรัน
 ``` shell  
 $ cd ~  
 $ git clone https://github.com/sarodp/mypg-ttfthai.git  
