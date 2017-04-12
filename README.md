@@ -2,6 +2,7 @@
 Test displaying of thai fonts in pygame.  
 ทดสอบฟอนต์ภาษาไทยบนไพเกม   
 ---    
+## ติดตั้ง
 ``` shell  
 $ cd ~  
 $ git clone https://github.com/sarodp/mypg-ttfthai.git  
@@ -13,7 +14,7 @@ $ ..
    
 ```   
 ---  
-** วิธีใช้เมาส์  
+## วิธีใช้เมาส์  
 * คลิกซ้าย fonts up   ..เลื่อนชุดฟอนต์ เดินหน้า  
 * คลิกขวา fonts down ..เลื่อนชุดฟอนต์ ถอยหลัง   
 * คลิกล้อกลาง reset fonts & size ..ไปฟอนต์เริ่มต้น และขนาดอักษรเริ่มต้น  
